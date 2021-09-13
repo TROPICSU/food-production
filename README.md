@@ -16,3 +16,10 @@ The codes are for the Multiple Linear Regression Models that were used for our a
 **Data:**
 The secondary dataset related to the food production for the major food-producing nations was ollected from Our World in Data. The datasets were obtained for the Agricultural Sector for the years 1961 to 2018. The secondary dataset related to the surface temperature and monthly precipitation for the major food-producing nations was obtained from the World Bank Database.
 
+**Links to Tableau Dashboards**
+
+*AUSTRALIA*
+
+[Barley Production] (https://public.tableau.com/views/BarleyProductioninAustraliaPeriod1964-2013/BarleyProductioninAustraliaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Grapes Production] (https://public.tableau.com/views/GrapesProductioninAustraliaPeriod1964-2013/GrapesProductioninAustraliaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
