@@ -23,3 +23,27 @@ The secondary dataset related to the food production for the major food-producin
 [Barley Production] (https://public.tableau.com/views/BarleyProductioninAustraliaPeriod1964-2013/BarleyProductioninAustraliaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Grapes Production] (https://public.tableau.com/views/GrapesProductioninAustraliaPeriod1964-2013/GrapesProductioninAustraliaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*Brazil*
+
+[Coffee Production] (https://public.tableau.com/shared/8MBB6K4MJ?:display_count=n&:origin=viz_share_link)
+
+[Oranges Production] (https://public.tableau.com/views/OrangesProductioninBrazilPeriod1964-2013/OrangesProductioninBrazilPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*China*
+
+[Rice Production] (https://public.tableau.com/views/RiceProductioninChinaPeriod1964-2013/RiceProductioninChinaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Wheat Production] (https://public.tableau.com/views/WheatProductioninChinaPeriod1964-2013/WheatProductioninChinaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*India*
+
+[Rice Production] (https://public.tableau.com/views/RiceProductioninIndiaPeriod1964-2013/RiceProductioninIndiaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Tea Production] (https://public.tableau.com/views/TeaProductioninIndiaPeriod1964-2013/TeaProductioninIndiaPeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*United States of America*
+
+[Barley Production] (https://public.tableau.com/views/BarleyProductioninU_S_APeriod1964-2013/BarleyProductioninU_S_APeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Grapes Production] (https://public.tableau.com/views/GrapesProductioninU_S_APeriod1964-2013/GrapesProductioninU_S_APeriod1964-2013?:language=en-US&:display_count=n&:origin=viz_share_link)
