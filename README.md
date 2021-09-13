@@ -8,7 +8,7 @@ The objective of my study was to understand the impact of climate change on glob
 
 I have analyzed how changing weather patterns could have a negative impact on food production, supply, safety, and quality in different parts of the world. I have explored, in turn, how this is affecting the socio-economic development of various countries. I have also briefly studied the global efforts to mitigate these effects.
 
-###<ATTACHEMENTS>
+###ATTACHEMENTS
 
 **Codes:** 
 The codes are for the Multiple Linear Regression Models that were used for our analysis, these models show us how the output changes as a function of the various input variables. In other words, the dataset's output column was influenced by numerous input columns. The output column of our linear regression model was the crop's production column. At the same time, the inputs or independent variables were a year, precipitation in millimeters, and the average temperature in degrees Celsius.
