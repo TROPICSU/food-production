@@ -11,7 +11,7 @@ I have analyzed how changing weather patterns could have a negative impact on fo
 **ATTACHEMENTS**
 
 **Codes:** 
-The codes are for the Multiple Linear Regression Models that were used for our analysis, these models show us how the output changes as a function of the various input variables. In other words, the dataset's output column was influenced by numerous input columns. The output column of our linear regression model was the crop's production column. At the same time, the inputs or independent variables were a year, precipitation in millimeters, and the average temperature in degrees Celsius.
+The codes are for the Multiple Linear Regression Models that were used for our analysis, these models show us how the output changes as a function according to the various input variables. In other words, the dataset's output column was influenced by numerous input columns. The output column of our linear regression model was the crop's production column. At the same time, the inputs or independent variables were year, precipitation in millimeters, and the average temperature in degrees Celsius.
 
 **Data:**
 The secondary dataset related to the food production for the major food-producing nations was ollected from Our World in Data. The datasets were obtained for the Agricultural Sector for the years 1961 to 2018. The secondary dataset related to the surface temperature and monthly precipitation for the major food-producing nations was obtained from the World Bank Database.
